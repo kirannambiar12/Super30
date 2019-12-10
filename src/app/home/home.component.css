@@ -1,0 +1,83 @@
+
+
+.first{
+    background-color: cadetblue;
+}
+
+.col-sm-4{
+    margin-top: auto;
+    margin-bottom: auto;  
+    
+}
+
+
+
+h1{
+    margin-left: 25%;
+}
+
+.navbar{
+    padding: none;
+    
+}
+
+.btn{
+
+width: 11%;
+height: 30px;
+}
+
+.btn:hover{
+    background-color: indianred;
+    border: indianred;
+}
+
+.sec{ 
+    margin-right: 65%;  
+}
+.card{
+    max-height: 100%;
+}
+
+
+.card-header{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.list-group-item:hover{
+background-color: lightblue;
+}
+
+a,p{
+    font-size: 15px;
+}
+
+
+
+
+
+.c2{
+    margin-left: 25%;
+    font-size: 30px;
+    font-weight: bold;
+}
+.c3{
+    font-weight: bold;
+}
+.time, .newsweek{
+    margin-left: 25%;
+}
+
+.discovery{
+    margin-left: 35%;
+}
+.discoveryy{
+    margin-left: 40%;
+}
+.meet{
+    margin-left: 25%;
+}
+.donation{
+    margin-left: 25%;
+}

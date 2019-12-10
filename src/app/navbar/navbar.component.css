@@ -1,0 +1,42 @@
+.btn{
+
+    width: 11%;
+    height: 30px;
+    border-radius: 15px 50px;
+    }
+
+    .fa-twitter {
+        color: white;
+padding-left: 5px;
+padding-top: 3px;
+background-color: #1b95e0;
+height: 20px;
+width: 170px;
+border-radius: 5px 5px 5px 5px;
+font-weight: bold;
+
+      }
+
+      a {
+        text-decoration-line: none;
+      }
+
+      
+
+      
+
+      .col-md-4{
+        margin-top: auto;
+        margin-bottom: auto;  
+        
+    }
+
+    .twit{
+        margin-left: 60%;
+        padding-top: 5px;
+        
+        
+    }
+    
+    
+    

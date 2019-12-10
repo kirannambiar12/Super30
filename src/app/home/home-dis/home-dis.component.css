@@ -1,0 +1,100 @@
+
+
+.first{
+    background-color: cadetblue;
+}
+
+.col-sm-4{
+    margin-top: auto;
+    margin-bottom: auto;  
+    
+}
+
+
+h1{
+    margin-left: 25%;
+}
+
+.navbar{
+    padding: none;
+    
+}
+
+.btn{
+
+width: 11%;
+height: 30px;
+}
+
+.btn:hover{
+    background-color: indianred;
+    border: indianred;
+}
+
+.sec{ 
+    margin-right: 65%;  
+}
+.d-block{
+    width: 90%;
+    margin-left: 5%;
+    
+}
+.homi:hover{
+background-color: #E8E5E2;
+}
+
+.card-header{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.list-group-item:hover{
+background-color: lightblue;
+}
+
+a,p{
+    font-size: 15px;
+}
+.list-group{
+    overflow-y: scroll;
+    
+}
+
+.lgi{
+  height: 100%;
+   width: 90%;
+  position: absolute;
+}
+
+.c5{
+    
+    font-size: 20px;
+    width: 80px;
+    height: 40px;
+}
+
+.c2{
+    
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 25%;
+}
+.c3{
+    font-weight: bold;
+}
+.time, .newsweek{
+    margin-left: 25%;
+}
+
+.discovery{
+    margin-left: 35%;
+}
+.discoveryy{
+    margin-left: 40%;
+}
+.meet{
+    margin-left: 25%;
+}
+.donation{
+    margin-left: 25%;
+}
